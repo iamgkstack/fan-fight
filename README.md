@@ -19,8 +19,11 @@ yarn
 # start the project
 yarn start
 
-# test windows os
+# test in windows os
 yarn test_windows_os
+
+# test in linux os
+yarn test_linux_os
 
 ```
 * This starts the server on the port 5200
